@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/healthylifestyle/static/css/main.e280bf68.chunk.css",
+    "main.js": "/healthylifestyle/static/js/main.db9c2903.chunk.js",
+    "main.js.map": "/healthylifestyle/static/js/main.db9c2903.chunk.js.map",
+    "runtime-main.js": "/healthylifestyle/static/js/runtime-main.4292e379.js",
+    "runtime-main.js.map": "/healthylifestyle/static/js/runtime-main.4292e379.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/healthylifestyle/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.17dbc08d.chunk.js": "/healthylifestyle/static/js/2.17dbc08d.chunk.js",
+    "static/js/2.17dbc08d.chunk.js.map": "/healthylifestyle/static/js/2.17dbc08d.chunk.js.map",
+    "static/js/3.07c24223.chunk.js": "/healthylifestyle/static/js/3.07c24223.chunk.js",
+    "static/js/3.07c24223.chunk.js.map": "/healthylifestyle/static/js/3.07c24223.chunk.js.map",
+    "index.html": "/healthylifestyle/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/healthylifestyle/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.e280bf68.chunk.css.map": "/healthylifestyle/static/css/main.e280bf68.chunk.css.map",
+    "static/js/2.17dbc08d.chunk.js.LICENSE.txt": "/healthylifestyle/static/js/2.17dbc08d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4292e379.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.17dbc08d.chunk.js",
+    "static/css/main.e280bf68.chunk.css",
+    "static/js/main.db9c2903.chunk.js"
+  ]
+}
